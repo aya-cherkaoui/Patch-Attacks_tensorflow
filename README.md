@@ -1,2 +1,3 @@
 # Patch-Attacks_tensorflow
-Veilleuz dézipper art.zip et suivre les instructions sur Readme.ipynb et executer prototype.ipynb
+
+Please care to un-zip the folder "art.zip" and follow the instruction on "Readme.ipynb"
