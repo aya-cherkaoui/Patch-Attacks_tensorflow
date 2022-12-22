@@ -5,9 +5,10 @@ Please open Patch_Attack_Tensorflow.ipynb where all the trainnings, reports and 
 Step:
 1. Install the necessary packages and import libraries;
 2. Please change the variable DATA_DIR to your repository where your wish to save the trainned patchs and other important data;
-3. Execute the code of all the definition of fonctions and two classes ModelContainer and MetaModel until the part of Patch Generation
-4. Execute the white box, black box trainning process, every patch and data will be saved under DATA_DIR that you define at the beginning
-5. After all the trainning, execute the evaluation to see the plot of performance of the patches generated
+3. Download the image files toaster.png, peace_sign.png, tie_dye.png under your DATA_DIR
+4. Execute the code of all the definition of fonctions and two classes ModelContainer and MetaModel until the part of Patch Generation
+5. Execute the white box, black box trainning process, every patch and data will be saved under DATA_DIR that you define at the beginning
+6. After all the trainning, execute the evaluation to see the plot of performance of the patches generated
 
 
 Attention:
