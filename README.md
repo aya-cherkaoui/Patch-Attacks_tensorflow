@@ -1,6 +1,6 @@
 # Patch-Attacks_tensorflow
 
-Please open Adversarial_Patch_Attack_Tensorflow.ipynb where all the trainnings, reports and definitions of useful functions and classes are inside.
+Please open Patch_Attack_Tensorflow.ipynb where all the trainnings, reports and definitions of useful functions and classes are inside.
 
 
 1. Install the necessary packages and import libraries;
