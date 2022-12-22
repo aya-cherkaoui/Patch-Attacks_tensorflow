@@ -10,6 +10,6 @@ Please open Patch_Attack_Tensorflow.ipynb where all the trainnings, reports and 
 5. After all the trainning, execute the evaluation to see the plot of performance of the patches generated
 
 
-! Image and Patch size are generally (299,299,3)
-! the attack target label here is 'toaster' and you can modify it to anything you want, but make sure it's in the category of objets that the classifiers are able to recognize
-! The trainning resulte with a wider difference between SCALE_MIN and SCALE_MAX works better
+Image and Patch size are generally (299,299,3)
+the attack target label here is 'toaster' and you can modify it to anything you want, but make sure it's in the category of objets that the classifiers are able to recognize
+The trainning resulte with a wider difference between SCALE_MIN and SCALE_MAX works better
